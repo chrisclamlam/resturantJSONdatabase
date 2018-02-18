@@ -1,0 +1,328 @@
+{
+  "articles": [
+    {
+      "name": "40 Of The Most Instagrammable Food Spots In LA",
+      "link": "https://www.buzzfeed.com/nicolemartinez082/40-of-the-most-instagrammable-food-spots-in-la-11cba?utm_term=.uiOXPB4yNB#.xqb4G8L0E8",
+      "image_url": "https://scontent-lax3-2.cdninstagram.com/vp/a7b6e0c35c4bba65db66cad6d276a103/5B1B173E/t51.2885-15/sh0.08/e35/p640x640/18644897_1689274854420199_6873022051079159808_n.jpg",
+      "restaurants": [
+        {
+            "id": "mr-holmes-bakehouse-los-angeles-5",
+            "name": "Mr Holmes Bakehouse",
+            "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/2vFPH1NK4GjoKW6rI2YXug/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/mr-holmes-bakehouse-los-angeles-5?adjust_creative=78C6Unw6FsFN0HGIGEcv7w&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=78C6Unw6FsFN0HGIGEcv7w",
+            "review_count": 73,
+            "categories": [
+                {
+                    "alias": "bakeries",
+                    "title": "Bakeries"
+                }
+            ],
+            "rating": 4,
+            "coordinates": {
+                "latitude": 34.0759787269627,
+                "longitude": -118.32341293315
+            },
+            "transactions": [],
+            "price": "$$",
+            "location": {
+                "address1": "248 N Larchmont Blvd",
+                "address2": "",
+                "address3": null,
+                "city": "Los Angeles",
+                "zip_code": "90004",
+                "country": "US",
+                "state": "CA",
+                "display_address": [
+                    "248 N Larchmont Blvd",
+                    "Los Angeles, CA 90004"
+                ]
+            },
+            "phone": "+13236728742",
+            "display_phone": "(323) 672-8742",
+            "distance": 11237.246644658
+        },
+        {
+            "id": "mr-holmes-bakehouse-los-angeles",
+            "name": "Mr Holmes Bakehouse",
+            "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/s6tZ1oYsw7hsnRGkDxYOjQ/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/mr-holmes-bakehouse-los-angeles?adjust_creative=78C6Unw6FsFN0HGIGEcv7w&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=78C6Unw6FsFN0HGIGEcv7w",
+            "review_count": 342,
+            "categories": [
+                {
+                    "alias": "bakeries",
+                    "title": "Bakeries"
+                },
+                {
+                    "alias": "customcakes",
+                    "title": "Custom Cakes"
+                }
+            ],
+            "rating": 3.5,
+            "coordinates": {
+                "latitude": 34.1101441831044,
+                "longitude": -118.190617157147
+            },
+            "transactions": [],
+            "price": "$$",
+            "location": {
+                "address1": "111 S Avenue 59",
+                "address2": "",
+                "address3": "",
+                "city": "Los Angeles",
+                "zip_code": "90042",
+                "country": "US",
+                "state": "CA",
+                "display_address": [
+                    "111 S Avenue 59",
+                    "Los Angeles, CA 90042"
+                ]
+            },
+            "phone": "+13237390473",
+            "display_phone": "(323) 739-0473",
+            "distance": 13163.80413486
+        },
+        {
+            "id": "bea-beas-burbank",
+            "name": "Bea Bea's",
+            "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/khcbxzKorjHn7Gx9N75cKA/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/bea-beas-burbank?adjust_creative=78C6Unw6FsFN0HGIGEcv7w&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=78C6Unw6FsFN0HGIGEcv7w",
+            "review_count": 2721,
+            "categories": [
+                {
+                    "alias": "breakfast_brunch",
+                    "title": "Breakfast & Brunch"
+                },
+                {
+                    "alias": "newamerican",
+                    "title": "American (New)"
+                },
+                {
+                    "alias": "waffles",
+                    "title": "Waffles"
+                }
+            ],
+            "rating": 4,
+            "coordinates": {
+                "latitude": 34.1557956670448,
+                "longitude": -118.346222436775
+            },
+            "transactions": [],
+            "price": "$$",
+            "location": {
+                "address1": "353 N Pass Ave",
+                "address2": "",
+                "address3": "",
+                "city": "Burbank",
+                "zip_code": "91505",
+                "country": "US",
+                "state": "CA",
+                "display_address": [
+                    "353 N Pass Ave",
+                    "Burbank, CA 91505"
+                ]
+            },
+            "phone": "+18188462327",
+            "display_phone": "(818) 846-2327",
+            "distance": 19760.96194082
+        },
+        {
+            "id": "caffé-concerto-los-angeles-4",
+            "name": "Caffé Concerto",
+            "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/xjY5bqVFOqgu4pQ4rVcclg/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/caff%C3%A9-concerto-los-angeles-4?adjust_creative=78C6Unw6FsFN0HGIGEcv7w&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=78C6Unw6FsFN0HGIGEcv7w",
+            "review_count": 1011,
+            "categories": [
+                {
+                    "alias": "italian",
+                    "title": "Italian"
+                }
+            ],
+            "rating": 4,
+            "coordinates": {
+                "latitude": 34.06301,
+                "longitude": -118.30622
+            },
+            "transactions": [
+                "restaurant_reservation"
+            ],
+            "price": "$$",
+            "location": {
+                "address1": "610 S Serrano Ave",
+                "address2": "",
+                "address3": "",
+                "city": "Los Angeles",
+                "zip_code": "90005",
+                "country": "US",
+                "state": "CA",
+                "display_address": [
+                    "610 S Serrano Ave",
+                    "Los Angeles, CA 90005"
+                ]
+            },
+            "phone": "+12137380909",
+            "display_phone": "(213) 738-0909",
+            "distance": 9112.722631715998
+        },
+        {
+            "id": "afters-ice-cream-los-angeles-3",
+            "name": "Afters Ice Cream",
+            "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/Ywn9HnWdJJZiW6D44ocwWA/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/afters-ice-cream-los-angeles-3?adjust_creative=78C6Unw6FsFN0HGIGEcv7w&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=78C6Unw6FsFN0HGIGEcv7w",
+            "review_count": 11,
+            "categories": [
+                {
+                    "alias": "icecream",
+                    "title": "Ice Cream & Frozen Yogurt"
+                }
+            ],
+            "rating": 3.5,
+            "coordinates": {
+                "latitude": 34.1098208339162,
+                "longitude": -118.192712945231
+            },
+            "transactions": [],
+            "location": {
+                "address1": "5713 N Figueroa St",
+                "address2": "",
+                "address3": null,
+                "city": "Los Angeles",
+                "zip_code": "90042",
+                "country": "US",
+                "state": "CA",
+                "display_address": [
+                    "5713 N Figueroa St",
+                    "Los Angeles, CA 90042"
+                ]
+            },
+            "phone": "",
+            "display_phone": "",
+            "distance": 7939.76966562737
+        },
+        {
+            "id": "afters-ice-cream-alhambra-2",
+            "name": "Afters Ice Cream",
+            "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/SrWJovdLXrID7Ci4q3zzRw/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/afters-ice-cream-alhambra-2?adjust_creative=78C6Unw6FsFN0HGIGEcv7w&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=78C6Unw6FsFN0HGIGEcv7w",
+            "review_count": 135,
+            "categories": [
+                {
+                    "alias": "icecream",
+                    "title": "Ice Cream & Frozen Yogurt"
+                }
+            ],
+            "rating": 4,
+            "coordinates": {
+                "latitude": 34.09452,
+                "longitude": -118.12744
+            },
+            "transactions": [],
+            "price": "$",
+            "location": {
+                "address1": "36 W Main St",
+                "address2": "",
+                "address3": null,
+                "city": "Alhambra",
+                "zip_code": "91801",
+                "country": "US",
+                "state": "CA",
+                "display_address": [
+                    "36 W Main St",
+                    "Alhambra, CA 91801"
+                ]
+            },
+            "phone": "",
+            "display_phone": "",
+            "distance": 11693.713509987901
+        },
+        {
+            "id": "afters-ice-cream-alhambra-2",
+            "name": "Afters Ice Cream",
+            "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/SrWJovdLXrID7Ci4q3zzRw/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/afters-ice-cream-alhambra-2?adjust_creative=78C6Unw6FsFN0HGIGEcv7w&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=78C6Unw6FsFN0HGIGEcv7w",
+            "review_count": 135,
+            "categories": [
+                {
+                    "alias": "icecream",
+                    "title": "Ice Cream & Frozen Yogurt"
+                }
+            ],
+            "rating": 4,
+            "coordinates": {
+                "latitude": 34.09452,
+                "longitude": -118.12744
+            },
+            "transactions": [],
+            "price": "$",
+            "location": {
+                "address1": "36 W Main St",
+                "address2": "",
+                "address3": null,
+                "city": "Alhambra",
+                "zip_code": "91801",
+                "country": "US",
+                "state": "CA",
+                "display_address": [
+                    "36 W Main St",
+                    "Alhambra, CA 91801"
+                ]
+            },
+            "phone": "",
+            "display_phone": "",
+            "distance": 11693.713509987901
+        },
+        {
+            "id": "afters-ice-cream-pasadena-2",
+            "name": "Afters Ice Cream",
+            "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/ZtTWgiJsQHiT5S9ofbgT2w/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/afters-ice-cream-pasadena-2?adjust_creative=78C6Unw6FsFN0HGIGEcv7w&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=78C6Unw6FsFN0HGIGEcv7w",
+            "review_count": 715,
+            "categories": [
+                {
+                    "alias": "desserts",
+                    "title": "Desserts"
+                },
+                {
+                    "alias": "icecream",
+                    "title": "Ice Cream & Frozen Yogurt"
+                },
+                {
+                    "alias": "donuts",
+                    "title": "Donuts"
+                }
+            ],
+            "rating": 4,
+            "coordinates": {
+                "latitude": 34.1447684770931,
+                "longitude": -118.124389104405
+            },
+            "transactions": [],
+            "price": "$",
+            "location": {
+                "address1": "1265 E Green St",
+                "address2": "",
+                "address3": "",
+                "city": "Pasadena",
+                "zip_code": "91106",
+                "country": "US",
+                "state": "CA",
+                "display_address": [
+                    "1265 E Green St",
+                    "Pasadena, CA 91106"
+                ]
+            },
+            "phone": "",
+            "display_phone": "",
+            "distance": 474.40969632714194
+        }
+      ]
+    }
+  ]
+}
