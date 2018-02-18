@@ -241,43 +241,6 @@
             "distance": 11693.713509987901
         },
         {
-            "id": "afters-ice-cream-alhambra-2",
-            "name": "Afters Ice Cream",
-            "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/SrWJovdLXrID7Ci4q3zzRw/o.jpg",
-            "is_closed": false,
-            "url": "https://www.yelp.com/biz/afters-ice-cream-alhambra-2?adjust_creative=78C6Unw6FsFN0HGIGEcv7w&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=78C6Unw6FsFN0HGIGEcv7w",
-            "review_count": 135,
-            "categories": [
-                {
-                    "alias": "icecream",
-                    "title": "Ice Cream & Frozen Yogurt"
-                }
-            ],
-            "rating": 4,
-            "coordinates": {
-                "latitude": 34.09452,
-                "longitude": -118.12744
-            },
-            "transactions": [],
-            "price": "$",
-            "location": {
-                "address1": "36 W Main St",
-                "address2": "",
-                "address3": null,
-                "city": "Alhambra",
-                "zip_code": "91801",
-                "country": "US",
-                "state": "CA",
-                "display_address": [
-                    "36 W Main St",
-                    "Alhambra, CA 91801"
-                ]
-            },
-            "phone": "",
-            "display_phone": "",
-            "distance": 11693.713509987901
-        },
-        {
             "id": "afters-ice-cream-pasadena-2",
             "name": "Afters Ice Cream",
             "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/ZtTWgiJsQHiT5S9ofbgT2w/o.jpg",
